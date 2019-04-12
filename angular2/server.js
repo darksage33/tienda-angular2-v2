@@ -1,5 +1,5 @@
 /**
- * @author Luis Odar Iván Zambrano Paredes
+ * @author Carlos Enrique La Mota Martillo
  */
 var bodyParser = require('body-parser'),
 	http = require('http'),
