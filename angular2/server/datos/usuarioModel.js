@@ -1,5 +1,5 @@
 /**
- * @author Luis Odar Iván Zambrano Paredes
+ * @author Carlos Enrique La Mota Martillo
  */
 var mongoose = require('mongoose');  
 var usuarioSchema = new mongoose.Schema({
