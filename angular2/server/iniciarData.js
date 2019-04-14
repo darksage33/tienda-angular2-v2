@@ -1,5 +1,5 @@
 /**
- * @author Luis Odar Iván Zambrano Paredes
+ * @author Carlos Enrique La Mota Martillo
  */
 var BDTienda = require('./datos/bdtienda.js'),
 	Operaciones = require('./datos/usuariosCRUD.js');
